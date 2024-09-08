@@ -1,6 +1,10 @@
-### 作者QQ：1556708905(支持修改、 部署调试、 支持代做毕设)
+---
+### 👉作者QQ ：1556708905 微信：zheng0123Long (支持修改、部署调试、定制毕设)
 
-#### 支持代做任何毕设论、接网站建设、小程序、H5、APP、各种系统等
+### 👉接网站建设、小程序、H5、APP、各种系统等
+
+### 👉选题+开题报告+任务书+程序定制+安装调试+ppt 都可以做
+---
 
 **毕业设计所有选题地址 [https://github.com/zhengjianzhong0107/allProject](https://github.com/zhengjianzhong0107/allProject)**
 
@@ -19,22 +23,29 @@
 - 图书管理模块:
   
   主要实现图书信息存储与发布、借阅与归还、在线使用图书信息、图书采购、出入库、审批 等操作，
+
 - 仓储管理模块:
   
   书架信息管理、书架层信息管理、库位信息
+
 - 用户管理模块:
   
   用户管理、角色管理、部门管理、岗位管理
+
 - 常用功能模块:
   
   图书搜索、图书借阅、图书归还、归还记录；
+
 - 其他信息管理:
   
   图书机构管理、作者列表管理、出版社管理
+
 - 系统监控管理:
   
   在线用户、定时任务、数据监控、服务监控、缓存监控
+
 - 资源统计:
+
 - 系统工具
   
   表单构建、代码生成、系统接口
@@ -128,13 +139,17 @@
 ## 六、安装教程
 
 1. 使用Navicat或者其它工具，在mysql中创建对应名称的数据库，并导入项目的sql文件；
+
 2. 使用IDEA/Eclipse/MyEclipse导入项目，Eclipse/MyEclipse导入时，若为maven项目请选择maven;
    
    若为maven项目，导入成功后请执行maven clean;maven install命令，然后运行；
-3. 修改application.yml 里面的数据库配置和redis配置
-4. 启动nhXJH-admin项目后端项目 
-5. vscode打开viewSM项目，
-6. 打开终端，执行npm install 依赖下载完成后执行 npm run dev,执行成功后会显示访问地址
-7. 访问  http://localhost:8081/
 
- 
+3. 修改application.yml 里面的数据库配置和redis配置
+
+4. 启动nhXJH-admin项目后端项目 
+
+5. vscode打开viewSM项目，
+
+6. 打开终端，执行npm install 依赖下载完成后执行 npm run dev,执行成功后会显示访问地址
+
+7. 访问  http://localhost:8081/
